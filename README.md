@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arsoban
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python and modules, maybe C# in future
+- 💞️ I’m looking to collaborate on Any Python Projects
+- 📫 You can wright me on Discord: Ars#4927
