@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arsoban
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, C#, Java, C++, C
+- 🌱 I’m currently learning Python, Java, Kotlin, C#
 - 💞️ I’m looking to collaborate on Any Projects
 - 📫 You can wright me on Discord: Ars#0001
